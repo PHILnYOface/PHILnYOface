@@ -1,7 +1,7 @@
 # Hi, I'm Brandon 👋
 
-Software engineer who likes building real, shippable products across very different
-stacks — mobile apps, multiplayer games, and data/automation tools.
+**Program manager who builds.** Portfolio systems and AI tooling by day, mobile apps
+and games on the side — I own products end to end, from roadmap to running code.
 
 🔭 **Featured projects**
 - **[CouchRot](https://github.com/PHILnYOface/couchrot)** — cross-medium social rec-tracking app

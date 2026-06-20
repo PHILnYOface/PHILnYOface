@@ -12,7 +12,7 @@ stacks — mobile apps, multiplayer games, and data/automation tools.
   voice chat (GDScript).
 
 💼 **Other work** (private repos — happy to walk through)
-- **Resource management system** — internal tooling; architecture available to discuss on request.
+- **Resource management system** — Streamlit app for R&D portfolio resource planning (demand intake, capacity tracking, scenario planning, FTE heatmaps). Python · SQLAlchemy/Alembic · Pydantic · Smartsheet API · pandas/Plotly.
 
 🛠️ **Tech**
 TypeScript · React Native / Expo · Supabase / PostgreSQL · Python · GDScript / Godot
